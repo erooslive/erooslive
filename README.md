@@ -1,4 +1,4 @@
-![GitHub Logo](/IMG_9086.jpg) Format: ![Alt Text](url)
+![GitHub Logo](/IMG_9086.jpg)
 
 
 ## Hi everyone!
